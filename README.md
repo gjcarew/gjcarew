@@ -2,7 +2,7 @@
 
 I'm Gavin. I'm a software engineer currently working mostly on backend stuff, though I can make a frontend if I must. 
 
-This account is mostly side projects, experiments, and coding practice. Work account here -> [@gavinthebox](github.com/gavinthebox)
+This account is mostly side projects, experiments, and coding practice. Work account here -> [@gavinthebox](https://github.com/gavinthebox)
 
 Fun facts about me:
 
